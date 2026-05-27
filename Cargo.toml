@@ -2,5 +2,10 @@
 name = "odim"
 version = "0.1.0"
 edition = "2024"
+description = "One Dimensional FDM."
+license = "Apache-2.0"
+repository = "https://github.com/ferrosoft/odim"
+keywords = ["geotechnical"]
+categories = ["science"]
 
 [dependencies]
